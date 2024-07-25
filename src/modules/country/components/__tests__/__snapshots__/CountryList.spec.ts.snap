@@ -1,0 +1,7 @@
+// Vitest Snapshot v1, https://vitest.dev/guide/snapshot.html
+
+exports[`CountryList > should render correctly 1`] = `
+"<div data-v-d284c788="" class="mx-auto mt-12 max-w-7xl overflow-hidden sm:px-6 lg:px-8">
+  <transition-group-stub data-v-d284c788="" tag="ul" name="list" appear="false" persisted="false" css="true" class="grid grid-cols-1 gap-6 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-5" role="list"></transition-group-stub>
+</div>"
+`;
