@@ -10,7 +10,7 @@ This template should help get you started developing with Vue 3 in Vite. Also I 
 For this project, I have created a basic web application that displays every global flag and incorporates a basic search bar for filtering by country name.
 
 > [!NOTE]
-> There is a live version just in case if you are not able to run the code locally: []()
+> There is a live version just in case if you are not able to run the code locally: [https://vue-base.vercel.app/](https://vue-base.vercel.app/)
 
 ## Project Setup
 
